@@ -13,4 +13,4 @@ In this machine learning tutorial, I am uploading the notebooks in different fol
 
 1. [Linear Regression](./Linear_Regression/Linear_Regression.ipynb)
 
-This is just a tutorial with demonstrations of the usage of some machine learning algorithms and they are open source. I am not responsible for any bugs or errors if you decide to use them in your work and/or research.
+*This is just a tutorial with demonstrations of the usage of some machine learning algorithms and they are open source. I am not responsible for any bugs or errors if you decide to use them in your work and/or research.*
