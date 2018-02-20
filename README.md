@@ -14,5 +14,6 @@ To install the Turicreate, please follow the instructions of this [link](https:/
 In this machine learning tutorial, I am uploading the notebooks in different folders with the dataset used for the analysis. I will be uploading new codes as soon they are created and tested. Below is the list with the tutorials availables:
 
 1. [Linear Regression](./Linear_Regression/Linear_Regression.ipynb)
+2. [Polynomial Regression](./Linear_Regression/Polynomial_Regression.ipynb)
 
 *This is just a tutorial with demonstrations of the usage of some machine learning algorithms and they are open source. I am not responsible for any bugs or errors if you decide to use them in your work and/or research.*
