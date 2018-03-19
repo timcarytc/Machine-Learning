@@ -16,7 +16,7 @@ In this machine learning tutorial, I am uploading the notebooks in different fol
 
 Machine learning can be divided in 2 major groups, [supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) and [unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning). And each of those groups are divided in sub-gropus, as shown in the next figure:
 
-![](./Figures/machine_learning.png) 
+![Machine learning groups and sub-groups](./Figures/machine_learning.png) 
 
 Below is the list with the tutorials availables:
 
