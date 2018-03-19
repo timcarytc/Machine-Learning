@@ -18,12 +18,13 @@ Machine learning can be divided in 2 major groups, [supervised learning]() and [
 
 Below is the list with the tutorials availables:
 
-1. [Supervised Learning]()
-	1.1. [Regression]()
-		1.1.1. [Linear Regression](./Linear_Regression/Linear_Regression.ipynb)
-		1.1.2. [Polynomial Regression](./Polynomial_Regression/Polynomial_Regression.ipynb)
-	1.2. [Classification]()
-		1.2.1. [Logistic Regression](./Logistic_Regression/Logistic_Regression.ipynb)
-		1.2.2. [Decision Tree](./Decision_Trees/Decision_Tree.ipynb)
+1. [Supervised Learning](./01_Supervised_Learning)
+	1. [Regression](./01_Supervised_Learning/01_Regression)
+		1. [Linear Regression](./01_Supervised_Learning/01_Regression/01_Linear_Regression/Linear_Regression.ipynb)
+		2. [Polynomial Regression](./01_Supervised_Learning/01_Regression/02_Polynomial_Regression/Polynomial_Regression.ipynb)
+	2. [Classification](./01_Supervised_Learning/02_Classification)
+		1. [Logistic Regression](./01_Supervised_Learning/02_Classification/01_Logistic_Regression/Logistic_Regression.ipynb)
+		2. [Decision Tree](./01_Supervised_Learning/02_Classification/02_Decision_Trees/Decision_Tree.ipynb)
+1. [Unsupervised Learning](./02_Unsupervised_Learning)
 
 *This is just a tutorial with demonstrations of the usage of some machine learning algorithms and they are open source. I am not responsible for any bugs or errors if you decide to use them in your work and/or research.*
