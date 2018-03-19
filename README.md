@@ -28,7 +28,7 @@ In this tutorial, I will present *some* algorithms for each machine learning sub
 	2. [Classification](./01_Supervised_Learning/02_Classification)
 		1. [Logistic Regression](./01_Supervised_Learning/02_Classification/01_Logistic_Regression/Logistic_Regression.ipynb)
 		2. [Decision Tree](./01_Supervised_Learning/02_Classification/02_Decision_Trees/Decision_Tree.ipynb)
-1. [Unsupervised Learning](./02_Unsupervised_Learning)
+1. [Unsupervised Learning](./02_Unsupervised_Learning) (coming soon)
 
 ***
 *This is just a tutorial with demonstrations of the usage of some machine learning algorithms and they are open source. I am not responsible for any bugs or errors if you decide to use them in your work and/or research.*
