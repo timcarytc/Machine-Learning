@@ -16,7 +16,7 @@ In this machine learning tutorial, I am uploading the notebooks in different fol
 
 Machine learning can be divided in 2 major groups, [supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) and [unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning). And each of those groups are divided in sub-gropus, as shown in the next figure:
 
-![\label{Machine learning groups and sub-groups}](./Figures/machine_learning.png) 
+![Machine learning groups and sub-groups](./Figures/machine_learning.png) 
 
 Below is the list with the tutorials availables:
 
@@ -30,4 +30,4 @@ Below is the list with the tutorials availables:
 1. [Unsupervised Learning](./02_Unsupervised_Learning)
 
 ***
-*This is just a tutorial with demonstrations of the usage of some machine learning algorithms and they are open source. I am not responsible for any bugs or errors if you decide to use them in your work and/or rese
+*This is just a tutorial with demonstrations of the usage of some machine learning algorithms and they are open source. I am not responsible for any bugs or errors if you decide to use them in your work and/or research.*
