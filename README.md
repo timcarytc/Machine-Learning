@@ -19,9 +19,7 @@ Machine learning can be divided in 2 major groups, [supervised learning](https:/
 ![Machine learning groups and sub-groups](./Figures/machine_learning.png) 
 [**Original link of the figure**](https://www.mathworks.com/discovery/machine-learning.html)
 
-In this tutorial, 
-
-Below is the list with the tutorials availables:
+In this tutorial, I will present *some* algorithms for each machine learning sub-group division. Below is the list with the tutorials availables:
 
 1. [Supervised Learning](./01_Supervised_Learning)
 	1. [Regression](./01_Supervised_Learning/01_Regression)
@@ -33,4 +31,4 @@ Below is the list with the tutorials availables:
 1. [Unsupervised Learning](./02_Unsupervised_Learning)
 
 ***
-*This is just a tutorial with demonstrations of the usage of some machine learning algorithms and they are o
+*This is just a tutorial with demonstrations of the usage of some machine learning algorithms and they are open source. I am not responsible for any bugs or errors if you decide to use them in your work and/or research.*
