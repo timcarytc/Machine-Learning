@@ -14,7 +14,9 @@ To install the Turicreate, please follow the instructions of this [link](https:/
 
 In this machine learning tutorial, I am uploading the notebooks in different folders with the dataset used for the analysis. I will be uploading new codes as soon they are created and tested. They are based on the [machine learning course](https://www.coursera.org/specializations/machine-learning) given by Emily Fox and Carlos Guestrin. 
 
-Machine learning can be divided in 2 major groups, [supervised learning]() and [unsupervised learning](). 
+Machine learning can be divided in 2 major groups, [supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) and [unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning). And each of those groups are divided in sub-gropus, as shown in the next figure:
+
+![](./Figures/machine_learning.png) 
 
 Below is the list with the tutorials availables:
 
